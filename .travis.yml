@@ -1,0 +1,5 @@
+language: python
+paython:
+- 3.6
+script:
+  - python3 test_first.python
